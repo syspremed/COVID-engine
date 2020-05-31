@@ -1,7 +1,9 @@
-setwd("/Users/asadanandam/Dropbox (SPM)/SysPreMed/Anguraj/COVID/GSE1739/again_new/another_new")
-setwd("/Users/asadanandam/Dropbox (SPM)/SysPreMed/Anguraj/COVID/GSE1739/again_new/another_new")
+# COVID-19 SAM analysis for GSE1739 dataset
+# Affymetrix CEL files for this should be requested from GSE1739 authors (we do not have permission)
+# Sadannadam Lab
 
-
+# once the CEL files are available in a directory
+# dir <- directory name
 
 sam_COVID <- function(dir)
 {
