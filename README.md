@@ -1,3 +1,3 @@
 # COVID-engine
-COVID-engine is a pipeline method for PBMC-based gene signatures for systems-level analysis
+COVID-engine is a pipeline method for PBMC-based gene signatures for systems-level analysis.
 Briefly, the differentially expressed gene expression signatures from PBMC of patients infected with coronavirus were used to query multiple databases for meta-signatures such as, pathways, mechanistic processes and their associated networks that are connected with different disease manifestations by enrichment analysis-based inferential statistics. These gene signatures and meta-signatures were further systematically linked to wire the pathophysiology in patients, again, in a hierarchical fashion, from cells to whole organism level 
