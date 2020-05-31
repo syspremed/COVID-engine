@@ -3,6 +3,7 @@
 # ResearchSquare - published preprint - DOI:10.21203/rs.3.rs-30473/v1
 # ssGSEA analysis for CoV-Up-gene and CoV-Down-gene signatures 
 # One dataset from Xiong et al. has been shown. Similarly other datasets can be applied
+# this code applies to immune cell type analysis in the manuscript
 
 dir <- "/Users/asadanandam/Dropbox (SPM)/SysPreMed/Anguraj/COVID/manuscript/script/test/ssGSEA_cov_sig"
 gene_set <- "/Users/asadanandam/Dropbox (SPM)/SysPreMed/Anguraj/COVID/manuscript/Data/Xiaong/20200426_GSE1739_patient_healthy_SAM_genes.gmt"
