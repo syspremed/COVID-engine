@@ -1,3 +1,5 @@
+# Sadanandam et al., A blood transcriptome-based system-level analysis of disease progression, immune regulation and symptoms in coronavirus-infected patients
+# ResearchSquare - published preprint - DOI:10.21203/rs.3.rs-30473/v1
 # COVID-19 SAM analysis for GSE1739 dataset
 # Affymetrix CEL files for this should be requested from GSE1739 authors (we do not have permission)
 # Sadannadam Lab
